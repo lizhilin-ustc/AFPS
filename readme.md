@@ -1,4 +1,4 @@
-# AFPS (Neural Networks)
+# AFPS (Neural Networks 2024)
 The official implementation of "Weakly supervised temporal action localization with actionness-guided false positive suppression".
 
 ## Preparation
