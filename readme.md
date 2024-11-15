@@ -30,5 +30,14 @@ You can reproduce the results of our experiment by executing the following comma
     bash ./scripts/inference.sh
 ```
 
-
-
+## Citation
+If this work is helpful for your research, please consider citing our works.
+@article{li2024weakly,
+  title={Weakly supervised temporal action localization with actionness-guided false positive suppression},
+  author={Li, Zhilin and Wang, Zilei and Liu, Qinying},
+  journal={Neural Networks},
+  volume={175},
+  pages={106307},
+  year={2024},
+  publisher={Elsevier}
+}
