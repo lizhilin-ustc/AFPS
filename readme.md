@@ -1,6 +1,11 @@
 # AFPS (Neural Networks 2024)
 The official implementation of "Weakly supervised temporal action localization with actionness-guided false positive suppression".
 
+## Results
+|  Dataset         | 0.1 | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.7| AVG(0.1:0.5) | AVG(0.1:0.7) |
+| -----------      | --- | --- | ----| ----| ----| ---| -- | ---- | -----|
+| THUMOS14         | 73.5| 68.8| 60.8| 51.3| 41.0| 27.5| 16.5| 59.1| 48.5|
+
 ## Preparation
 CUDA Version: 11.3
 
