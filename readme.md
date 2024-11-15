@@ -10,7 +10,6 @@ The official implementation of "Weakly supervised temporal action localization w
 | -----------      | --- | --- | ----| ----|
 | ActivityNet 1.2  | 48.6| 29.6| 6.4| 29.9|
 | ActivityNet 1.3  | 43.9 |27.1|6.3|27.3|
-| -----------      | --- | --- | ----| ----|
 
 
 ## Preparation
