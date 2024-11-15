@@ -1,5 +1,6 @@
 # AFPS (Neural Networks 2024)
 The official implementation of "Weakly supervised temporal action localization with actionness-guided false positive suppression".
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/weakly-supervised-temporal-action-8/weakly-supervised-action-localization-on-2)](https://paperswithcode.com/sota/weakly-supervised-action-localization-on-2?p=weakly-supervised-temporal-action-8)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/weakly-supervised-temporal-action-8/weakly-supervised-action-localization-on-1)](https://paperswithcode.com/sota/weakly-supervised-action-localization-on-1?p=weakly-supervised-temporal-action-8)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/weakly-supervised-temporal-action-8/weakly-supervised-action-localization-on)](https://paperswithcode.com/sota/weakly-supervised-action-localization-on?p=weakly-supervised-temporal-action-8)
