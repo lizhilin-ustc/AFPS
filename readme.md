@@ -6,6 +6,13 @@ The official implementation of "Weakly supervised temporal action localization w
 | -----------      | --- | --- | ----| ----| ----| ---| -- | ---- | -----|
 | THUMOS14         | 73.5| 68.8| 60.8| 51.3| 41.0| 27.5| 16.5| 59.1| 48.5|
 
+|  Dataset         | 0.5 | 0.75 | 0.95 | AVG(0.5:0.95) |
+| -----------      | --- | --- | ----| ----|
+| ActivityNet 1.2  | 48.6| 29.6| 6.4| 29.9|
+| ActivityNet 1.3  | 43.9 |27.1|6.3|27.3|
+
+
+
 ## Preparation
 CUDA Version: 11.3
 
